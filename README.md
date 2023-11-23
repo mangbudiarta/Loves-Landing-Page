@@ -2,25 +2,35 @@
 Landing page dengan html 5, vanila css dan javascript. Desain responsive dan mobile friendly
 
 # Demo
-link demo : https://mangbudiarta.github.io/loves-landing-page/
+Link demo : https://mangbudiarta.github.io/loves-landing-page/
 
 # Clone
-jalankan perintah
+Jalankan perintah
 
     git clone https://github.com/mangbudiarta/loves-landing-page.git
 
-kemudian jalankan file index.html
+Kemudian jalankan file index.html
 
 # Kontribusi
-1. clone repository
-2. buat branch baru
-       git branch namabracnbaru
-3. masuk ke branch
-       git checkout namabranchbaru
-4. tambah file kontribusi
-       git add .
-5. lakukan commit
-       git commit - m "pesan anda"
-7. lakukan push
-       git push -u origin namabranch
-8. Terimakasih sudah berkontribusi
+1. Clone repository
+2. Buat branch baru
+
+    git branch nama_branch_baru
+
+4. Masuk ke branch
+ 
+    git checkout nama_branch_baru
+
+5. Tambah file kontribusi
+
+    git add .
+
+6. Lakukan commit
+   
+    git commit -m "pesan commit anda"
+
+8. lakukan push
+   
+    git push -u origin nama_branch_baru
+
+10. Terimakasih sudah berkontribusi

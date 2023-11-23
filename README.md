@@ -1,17 +1,17 @@
-# #loves-landing-page
+# # Loves-landing-page
 Landing page dengan html 5, vanila css dan javascript. Desain responsive dan mobile friendly
 
-# Demo
+# #Demo
 Link demo : https://mangbudiarta.github.io/loves-landing-page/
 
-# Clone
+# #Clone
 Jalankan perintah
 
     git clone https://github.com/mangbudiarta/loves-landing-page.git
 
 Kemudian jalankan file index.html
 
-# Kontribusi
+# #Kontribusi
 1. Clone repository
 2. Buat branch baru
    ```

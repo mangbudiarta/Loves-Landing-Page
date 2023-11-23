@@ -17,7 +17,7 @@ Kemudian jalankan file index.html
    ```
     git branch nama_branch_baru
    ```
-4. Masuk ke branch
+4. Pindah ke branch baru
    ```
     git checkout nama_branch_baru
    ```
@@ -33,4 +33,4 @@ Kemudian jalankan file index.html
    ```
     git push -u origin nama_branch_baru
     ```
-10. Terimakasih sudah berkontribusi
+10. Terimakasih sudah berkontribusi 

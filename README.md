@@ -6,9 +6,9 @@ Link demo : https://mangbudiarta.github.io/loves-landing-page/
 
 # Clone
 Jalankan perintah
-    ```
+
     git clone https://github.com/mangbudiarta/loves-landing-page.git
-    ```
+
 Kemudian jalankan file index.html
 
 # Kontribusi

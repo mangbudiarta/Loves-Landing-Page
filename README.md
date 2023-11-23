@@ -1,4 +1,4 @@
-# # Loves-landing-page
+# #Loves-landing-page
 Landing page dengan html 5, vanila css dan javascript. Desain responsive dan mobile friendly
 
 # #Demo

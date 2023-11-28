@@ -1,5 +1,10 @@
 # #Loves-landing-page
-Landing page dengan html 5, vanila css dan javascript. Desain responsive dan mobile friendly
+Landing page untuk layanan jasa jodoh, memiliki desain yang baik dengan ilustrasi yang menarik. Desain responsive dan mobile friendly
+
+# #Teknologi
+1. HTML 5
+2. Vanila CSS
+3. Javascript
 
 # #Demo
 Link demo : https://mangbudiarta.github.io/loves-landing-page/
